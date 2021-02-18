@@ -1,6 +1,4 @@
-/* Peter
-*
-* Programming Essentials
+/*
 *
 * 1/21/2019
 *
